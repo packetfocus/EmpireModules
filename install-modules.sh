@@ -6,4 +6,6 @@ cp   /tmp/Invoke-MassMimikatz.py /tools/Empire/lib/modules/credentials/mimikatz/
 echo "Cleaning up"
 rm Invoke-MassMimikatz.ps1
 rm Invoke-MassMimikatz.py
+rm /tmp/Invoke-MassMimikatz.ps1
+rm /tmp/Invoke-MassMimikatz.py
 echo "Finished."
